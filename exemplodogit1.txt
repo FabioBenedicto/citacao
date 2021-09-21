@@ -1,1 +1,2 @@
 Estou fazendo uma alteração no exemplodogit1
+Adicionando uma nova linha, testando
